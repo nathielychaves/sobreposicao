@@ -1,16 +1,7 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Arial', sans-serif;
+.fundo-imagem{
+  background-image: url(scoobydoo.jpg);
+  background-repeat: no-repeat;
+  width: 2000px;
+  height: 2000px;
 }
 
-
-#imagem2 {
-    position: absolute;
-    left: 70px;
-  }
-  
-  #elemento-pai {
-    position: relative;
-  }
