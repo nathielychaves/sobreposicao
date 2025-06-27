@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+
+#imagem2 {
+    position: absolute;
+    left: 70px;
+  }
+  
+  #elemento-pai {
+    position: relative;
+  }
